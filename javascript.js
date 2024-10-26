@@ -1,4 +1,4 @@
-/* What is Javascript? */
+/* --- What is Javascript? --- */
 
 /*
     - A dynamic programming language primarily used for creating web pages.
